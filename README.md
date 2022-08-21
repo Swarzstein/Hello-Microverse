@@ -55,4 +55,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is not licensed.
+This project is [MIT](./LICENSE) licensed.
